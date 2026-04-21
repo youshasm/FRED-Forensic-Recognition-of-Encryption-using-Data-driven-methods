@@ -702,8 +702,6 @@ If you use this work in your research, please cite:
 
 <div align="center">
 
-**Built with ❤️ at FAST NUCES Islamabad**
-
 *Advancing Digital Forensics Through Machine Learning*
 
 </div>
